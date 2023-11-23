@@ -1,1 +1,1 @@
-in this # Java repository you can access all java learnig materials and refrences 
+in this # Java repository you can access all java learnig materials and refrences for your learing
