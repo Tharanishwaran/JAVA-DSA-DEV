@@ -29,51 +29,8 @@ public static void main(String[] args) {
         
         list.get(i).add(scan.nextInt());
           
-       }
-
-
-   }
-
-
+       } }
 
    System.out.println(list);
 
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-}
+}}
