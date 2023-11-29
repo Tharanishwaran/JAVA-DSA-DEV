@@ -1,6 +1,6 @@
 package oops;
 
-public class Class {
+public class ClassAndObject {
     
 
 public static void main(String[] args) {
