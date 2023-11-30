@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.*;
 
-public class ArraylistNote {
+public class Arraylist {
 public static void main(String[] args) {
     
 
