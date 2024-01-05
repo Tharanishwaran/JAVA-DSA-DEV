@@ -18,14 +18,7 @@ public static void main(String[] args) {
     System.out.println(car.modelno);
 
 }
-   
-
-
-
-
-
-}
-
+   }
 
 
 class Cars{
@@ -39,16 +32,4 @@ float price = 10000.00f;
 int speed =  50;
 
 boolean airbags = true;
-
-
-
 }
-
-
-
-
-
-
-
-
-
