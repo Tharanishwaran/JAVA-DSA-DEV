@@ -8,26 +8,26 @@ public static void main(String[] args) {
   
  Shapes shape = new Shapes();
 
- Circle circle = new Circle();
+ Shapes circle11 = new Circle();
 
  Square square = new Square();
 
  Triangle triangle = new Triangle();
 
- shape.area();
+//  shape.area();
 
- circle.area();
+//  circle.area();
 
- square.area();
+//  square.area();
 
 
-   shape.Tri();
+//    shape.Tri();
 
-   triangle.Tri();
+//    triangle.Tri();
 
-  Shapes shapes1 = new Triangle();
+//   Shapes shapes1 = new Triangle();
 
-  shapes1.Tri();
+//   shapes1.Tri();
 
 
 //   shapes1.pyr();
@@ -36,6 +36,11 @@ public static void main(String[] args) {
 
 //   shape.pyr();
 //   triangle.pyr();
+
+
+circle11.area();
+
+circle11.pyr();
 
 }
 
