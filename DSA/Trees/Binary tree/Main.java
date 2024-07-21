@@ -5,6 +5,7 @@ public class Main {
     Scanner scanner = new Scanner(System.in);
     BinaryTree tree = new BinaryTree();
     tree.populate(scanner);
+    // tree.display();
     tree.prettyDisplay();
 
     // BST tree = new BST();
