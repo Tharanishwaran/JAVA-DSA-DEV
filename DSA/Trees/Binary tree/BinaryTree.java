@@ -79,21 +79,16 @@ class BinaryTree {
       }
       prettyDisplay(node.left, level + 1);
     }
-
-
-
-
-
-
-
-
 }
 
-// public class Main {
-//     public static void main(String[] args) {
-//         Scanner scanner = new Scanner(System.in);
-//         BinaryTree tree = new BinaryTree();
-//         tree.populate(scanner);
-//         tree.display();
-//     }
-// }
+
+
+
+ class Main {
+     public static void main(String[] args) {
+         Scanner scanner = new Scanner(System.in);
+         BinaryTree tree = new BinaryTree();
+         tree.populate(scanner);
+         tree.prettyDisplay();
+     }
+ }
