@@ -92,16 +92,4 @@ and if any mistakes in code you can make a fork of this repository amd make chan
    - Focus on improving the time and space complexity of your solutions.
    - Practice writing clean and efficient code.
 
-### 9. **System Design Basics (Optional but Recommended)**
-   - Learn about scalability, load balancing, caching, and distributed systems.
-   - Understand how to design scalable systems and databases.
 
-### 10. **Mock Interviews and Real-World Application**
-   - **Mock Interviews:** Practice coding interviews with peers or use platforms like InterviewBit.
-   - **Real-World Projects:** Apply your DSA knowledge in real-world projects to understand its practical applications.
-
-### 11. **Stay Updated and Keep Practicing**
-   - Follow blogs, YouTube channels, and forums like Stack Overflow to stay updated on new techniques.
-   - Consistent practice is key to mastering DSA.
-
-This roadmap should guide you through the process of mastering DSA in Java, building a strong foundation, and developing the skills needed to solve complex problems efficiently.
