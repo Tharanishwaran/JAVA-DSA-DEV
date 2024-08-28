@@ -3,7 +3,7 @@
 * in this java repository you can access all java learning materials and refrences for learning 
 and if any mistakes in code you can make a fork of this repository amd make changes and contribute to this repository.Also In this java repo You can learn about problem solving
 
-  <h2>Here's a step-by-step roadmap</h2>
+<h2>Here's a step-by-step roadmap</h2>
 
 ### 1. **Understand the Basics of Java**
    - **Java Syntax and Basics:** Learn about variables, data types, operators, control statements (if-else, switch, loops).
